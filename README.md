@@ -31,7 +31,7 @@ The database design is centered around key entities that form the backbone of th
 
 The ERD visually represents the relationships between the entities in the OYO system. 
 
-![ERD](path_to_your_erd_image)  <!-- Include the actual path or link to your ERD diagram -->
+<img src='erd_diagram./Oyo_Schema.png' alt ='Erd_Diagram'>
 
 ## Schema Description
 
