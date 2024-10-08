@@ -1,6 +1,3 @@
-Here’s the updated README with your email included for feedback:
-
----
 
 # Product Dissection: OYO Database Design
 
